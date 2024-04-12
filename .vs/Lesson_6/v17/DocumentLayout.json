@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arthur\\source\\repos\\Lesson_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B416AD-582E-46B7-A063-6F626D0F04D6}|Lesson_6\\Lesson_6.vcxproj|C:\\Users\\Arthur\\source\\repos\\Lesson_6\\Lesson_6\\Lesson_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63B416AD-582E-46B7-A063-6F626D0F04D6}|Lesson_6\\Lesson_6.vcxproj|solutionrelative:Lesson_6\\Lesson_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson_6.cpp",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\Lesson_6\\Lesson_6\\Lesson_6.cpp",
+              "RelativeDocumentMoniker": "Lesson_6\\Lesson_6.cpp",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\Lesson_6\\Lesson_6\\Lesson_6.cpp",
+              "RelativeToolTip": "Lesson_6\\Lesson_6.cpp",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAmwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-26T20:14:23.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
